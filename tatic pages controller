@@ -1,0 +1,41 @@
+[33mcommit 0d86c55e3be3a86d8f9ac45213fa4a9de2dae97d[m[33m ([m[1;36mHEAD -> [m[1;32mmodeling-users[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfilling-in-layout[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-23-243.ec2.internal>
+Date:   Thu Sep 19 14:08:10 2019 +0000
+
+    Finish layout and routes
+
+[33mcommit 532954c697bf7e4158e5f7f21522addf1e7bdd70[m[33m ([m[1;31morigin/rails-flavored-ruby[m[33m, [m[1;32mrails-flavored-ruby[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-23-243.ec2.internal>
+Date:   Thu Sep 19 07:46:51 2019 +0000
+
+    add full_time function in application_helper.rb and make a test pass for home without title
+
+[33mcommit f37ff73b93d93c8d766d31bdbcb4a05faf061b8f[m[33m ([m[1;32mstatic-pages[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-23-243.ec2.internal>
+Date:   Wed Sep 18 16:23:21 2019 +0000
+
+    Finish static page
+
+[33mcommit ec087be389b67b31caac3a7c7b951e316b3a7d27[m[33m ([m[1;31morigin/static-pages[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-23-243.ec2.internal>
+Date:   Wed Sep 18 15:09:05 2019 +0000
+
+    Add a static pages controller
+
+[33mcommit febf982af7da4f1977640bd09bc893db864cb663[m
+Author: Ubuntu <ubuntu@ip-172-31-23-243.ec2.internal>
+Date:   Wed Sep 18 15:02:21 2019 +0000
+
+    Add hello
+
+[33mcommit aad1ad2b33da13886fcf297b727c37bc3a008908[m
+Author: Ubuntu <ubuntu@ip-172-31-23-243.ec2.internal>
+Date:   Wed Sep 18 14:56:02 2019 +0000
+
+    Improve the README
+
+[33mcommit 2a1e918255bf9c92eba8d07bbbeccc8ed2a241df[m
+Author: Ubuntu <ubuntu@ip-172-31-23-243.ec2.internal>
+Date:   Wed Sep 18 14:54:03 2019 +0000
+
+    Initialize repository
